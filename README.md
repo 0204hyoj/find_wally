@@ -1,12 +1,12 @@
 #Find Wally with CNN
 
 
-input image
+result
 
 ![image](https://github.com/0204hyoj/find_wally/assets/89888712/2017573b-689a-42aa-b176-4dc15751b29e)
 
 
-result
+input image
 
 ![image](https://github.com/0204hyoj/find_wally/assets/89888712/ead674fc-25c7-4a80-9589-fec5665cdbfc)
 
